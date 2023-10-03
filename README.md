@@ -1,5 +1,5 @@
 # Open source example code for a Food Recipe - Generative AI App on ECS, powered by AWS Bedrock Managed FM Models using CDK
-This is a CDK project written in TypeScript that provisions an ECS Fargate Cluster in VPC with Public Subnets and associated IAM Roles/Policies, Security Groups, Route Tables, Internet Gateway and an Application Load Balancer.
+This is a CDK project written in TypeScript that provisions a Streamlit UI based Generative AI App powered by AWS Bedrock running on an ECS Fargate Cluster in a VPC with Public Subnets and associated IAM Roles/Policies, Security Groups, Route Tables, Internet Gateway and an Application Load Balancer.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
